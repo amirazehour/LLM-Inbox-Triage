@@ -1,4 +1,5 @@
 # Inbox Triage
+### this project is curently only in the first development stage
 
 A small FastAPI app that turns pasted email or message text into validated structured data: category, priority, a one-line summary, and action items. The browser sends text to the local backend; the Gemini API key stays in the server environment.
 
